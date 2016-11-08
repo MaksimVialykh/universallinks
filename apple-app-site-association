@@ -1,0 +1,25 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "T7Z99R444X.com.raken.Raken",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "798YAD3KNV.com.raken.RakenDev",
+                "paths": [
+                    "*"
+                ]
+            },
+            {
+                "appID": "798YAD3KNV.com.raken.RakenStage",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
